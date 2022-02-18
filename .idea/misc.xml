@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/MicroservComp/SingerService/pom.xml" />
         <option value="$PROJECT_DIR$/WeatherEval/WeatherService/pom.xml" />
+        <option value="$PROJECT_DIR$/WeatherPartiel/pom.xml" />
       </list>
     </option>
   </component>

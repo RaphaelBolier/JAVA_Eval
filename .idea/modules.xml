@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_Eval.iml" filepath="$PROJECT_DIR$/.idea/JAVA_Eval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeatherPartiel/com.self.sprintboot.learning.employee.iml" filepath="$PROJECT_DIR$/WeatherPartiel/com.self.sprintboot.learning.employee.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeatherEval/WeatherService/com.self.sprintboot.learning.weather.iml" filepath="$PROJECT_DIR$/WeatherEval/WeatherService/com.self.sprintboot.learning.weather.iml" />
     </modules>
   </component>
