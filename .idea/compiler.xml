@@ -7,14 +7,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="com.self.sprintboot.learning.weather" />
+        <module name="com-self-sprintboot-learning-apigateway" />
         <module name="com.self.sprintboot.learning.employee" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ApiGateway" target="17" />
       <module name="com-self-sprintboot-learning-apigateway" target="1.8" />
       <module name="com-self-sprintboot-learning-eureka" target="1.8" />
       <module name="com.self.sprintboot.learning.employee" target="1.8" />
       <module name="com.self.sprintboot.learning.weather" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ApiGateway" options="-parameters" />
+    </option>
   </component>
 </project>
